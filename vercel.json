@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "django",
+  "builds": [{ "src": "serverless.yml", "use": "@sls-next/serverless-component@1.18.0" }]
+}
